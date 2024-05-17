@@ -7,7 +7,7 @@
 
 # Structure
 
-- Create a new folder for every leetcode question
+- Create a new folder under src/ for every leetcode question
 - Each folder should contain an ``index.ts`` and ``index.test.ts`` file
     - ``index.ts`` is for creating the function required for the leetcode question
         - Make sure you export the function
